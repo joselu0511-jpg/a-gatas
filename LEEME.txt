@@ -1,0 +1,7 @@
+A GATAS - WEB COMPLETA CON GALERIA
+
+Subir y extraer el contenido del ZIP en la raiz de ejemplos.afcimportaciones.com.
+Hacer copia de seguridad antes de sobrescribir.
+Se han mantenido las paginas existentes y se ha anadido galeria interactiva en Instalaciones y adelanto en Inicio.
+No se incluyen fotografias de ninos ni del equipo.
+Las fotos son material facilitado para la demostracion; confirmar permiso de uso antes de publicar oficialmente.
